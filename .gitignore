@@ -1,0 +1,5 @@
+data.db
+nsfw.txt
+praw.ini
+.vscode/
+__pycache__/
